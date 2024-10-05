@@ -1,0 +1,62 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "b koodak";
+}
+h3{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+header{
+    background-color: black;
+    color: white;
+    font-family: "b koodak";
+    padding: 3px;
+}
+#s1{
+    float: right;
+}
+#a2{
+    color: rgb(235, 28, 28);
+}
+#a1{
+    color: red;
+}
+img{
+    width: 130px;
+    height: 140px;
+
+}
+nav{
+}
+marquee{
+    width: 100%;
+    padding: 3px;
+}
+.content{
+    background-color: black;
+    color: white;
+    height: 600px;
+    width: 80%;
+    float: right;
+}
+.sidebar{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    height: 600px;
+    width: 20%;
+    float: right;
+}
+#s3{
+    text-align: center;
+}
+#img{
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+#t1{
+    color: rgb(235, 28, 28);
+}
